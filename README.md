@@ -1,2 +1,2 @@
-## Hi 👋 I'm Ashley!
-I'm a network engineering student with a programming hobby, 'tis about it.
+## Hi, I'm Ashley! 👋 
+Network Engineering Student / Hobbiest Software Developer
